@@ -1,7 +1,9 @@
-## Oiii eu sou o João Victor Sambrano, de momento sou analista do Advanced Support - Atos e estudante de .NET!
-  -
-  -  
-  -
+## Oiii eu sou o João Victor Sambrano!
+  - 🖥️ Analista do Advanced Support - ATOS
+  - 🎒 Atualmente iniciando .NET 
+  
+  
+  
 <div align="center">
   <a href="https://github.com/jsambrano20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsambrano20&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
