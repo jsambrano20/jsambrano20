@@ -1,4 +1,4 @@
-## Oiii eu sou o João Victor Sambrano!
+## Oi eu sou o João Victor Sambrano!
   - 🖥️ Analista do Advanced Support - ATOS
   - 🎒 Atualmente iniciando .NET 
   
