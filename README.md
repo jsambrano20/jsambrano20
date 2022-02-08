@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Victor Sambrano!
-  - 🖥️ Analista do Advanced Support - ATOS
-  - 🎒 Atualmente iniciando .NET 
+  - 🖥️ Técnico em Desenvolvimento de Sistemas - ATOS
+  - 🎒 C# - .NET
   
   
   
