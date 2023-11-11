@@ -1,5 +1,5 @@
 ## Olá, eu sou o João Victor Sambrano!
-  - 🖥️ Desenvolvedor .NET - ATOS
+  - 🖥️ Desenvolvedor .NET
   - 🎒 C# - .NET
   
   
