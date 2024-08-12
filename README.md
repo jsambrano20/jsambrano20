@@ -1,5 +1,5 @@
 
-## Oi eu sou o João Sambrano, deenvolvedor de software!
+## Oi eu sou o João Sambrano, desenvolvedor de software!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
