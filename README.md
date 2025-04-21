@@ -2,7 +2,7 @@
 ## Oi eu sou o João Sambrano, desenvolvedor fullstack!
   Aqui compartilho algum dos meus estudos e projetos!
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">Alguns stacks que atuo: <br>
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Joao-Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
