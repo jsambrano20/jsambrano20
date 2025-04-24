@@ -1,8 +1,8 @@
 <h1 align="center">👋 Oi, eu sou o João Sambrano!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack apaixonado por transformar ideias em soluções digitais.</b><br>
-  Aqui compartilho alguns dos meus estudos, projetos pessoais e aprendizados contínuos.
+  <b>Desenvolvedor Fullstack entusiasta em soluções.</b><br>
+  Aqui compartilho alguns dos meus estudos, projetos pessoais e aprendizados.
 </p>
 
 ---
@@ -15,6 +15,7 @@
   <img align="center" alt="Joao-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
   <img align="center" alt="Joao-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
   <img align="center" alt="Joao-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+    <img align="center" alt="Joao-Go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go">
 </div>
 
 ---
