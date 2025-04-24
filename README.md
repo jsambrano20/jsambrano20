@@ -27,7 +27,7 @@
 ### 📚 Em constante evolução
 
 Atualmente estou aprofundando meus conhecimentos em:
-- Arquitetura de soluções escaláveis com .NET 8
+- Arquitetura de soluções escaláveis com .NET 
 - React e desenvolvimento de interfaces modernas
 - Boas práticas de Clean Code, TDD e SOLID
 - Go (Golang) para back-end de alta performance
