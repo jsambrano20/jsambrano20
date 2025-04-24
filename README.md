@@ -5,6 +5,10 @@
   Aqui compartilho alguns dos meus estudos, projetos pessoais e aprendizados.
 </p>
 
+<p align="center">
+  Deixo aqui meus códigos do inicio da minha jornada para sempre olhar e ver o que eu posso melhorar rsrs
+</p>
+
 ---
 
 ### 🚀 Tecnologias e Ferramentas que utilizo no dia a dia
