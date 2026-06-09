@@ -1,130 +1,129 @@
-# 👋 Olá, eu sou João Sambrano
+<h2 align="center">👋 Oi, eu sou João Sambrano</h2>
 
 <p align="center">
-  <strong>Software Engineer | Fullstack Developer | .NET • React • Azure</strong>
+  <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
   Construindo software escalável, performático e orientado a negócio.
 </p>
 
----
-
-## About
-
-Sou desenvolvedor Fullstack com experiência em aplicações corporativas, plataformas de energia, CRM e modernização de sistemas legados.
-
-Tenho como foco criar soluções que equilibrem simplicidade, manutenção, escalabilidade e resultado para o negócio. Acredito que escrever código é apenas parte do trabalho; entender o problema corretamente é o que realmente gera valor.
-
-Atualmente trabalho principalmente com:
-
-* C# e .NET
-* React e TypeScript
-* Azure e DevOps
-* APIs REST e Integrações
-* Arquitetura de Software
-* Dynamics 365 CRM
+<p align="center">
+  Desenvolvedor Fullstack com experiência em aplicações corporativas, modernização de sistemas legados, integrações, CRM Dynamics 365 e plataformas de energia.
+</p>
 
 ---
 
-## Engineering Principles
+## 🚀 Sobre mim
 
-### Question Everything
+- 💼 Mais de 6 anos desenvolvendo soluções com .NET e React
+- ⚡ Experiência em sistemas corporativos de grande porte
+- 🏗️ Interesse em Arquitetura de Software, DDD e Microsserviços
+- ☁️ Experiência com Azure e CI/CD
+- 📈 Foco em performance, escalabilidade e qualidade de código
+- 🌱 Atualmente estudando Cloud Native e IA aplicada ao desenvolvimento
+
+---
+
+## 🧠 Engineering Principles
+
+#### Question Before Building
 
 Antes de implementar qualquer solução, procuro entender:
 
-* O problema realmente existe?
-* Existe uma alternativa mais simples?
-* Estamos resolvendo a causa ou apenas o sintoma?
-* O custo da solução faz sentido para o negócio?
+- O problema realmente existe?
+- Existe uma alternativa mais simples?
+- Estamos resolvendo a causa ou apenas o sintoma?
+- O custo da solução faz sentido para o negócio?
 
-### Performance Matters
+#### Performance Matters
 
-Performance não é uma etapa final do projeto.
+Performance não deve ser tratada apenas como otimização final.
 
 Busco construir aplicações considerando:
 
-* Eficiência de processamento
-* Redução de consumo de recursos
-* Escalabilidade
-* Observabilidade
-* Experiência do usuário
+- Eficiência de processamento
+- Escalabilidade
+- Baixo consumo de recursos
+- Observabilidade
 
-### Simplicity First
+#### Simplicity First
 
 Prefiro:
 
-* Soluções simples
-* Código legível
-* Baixo acoplamento
-* Manutenção facilitada
+- Soluções simples
+- Código legível
+- Baixo acoplamento
+- Fácil manutenção
 
-Complexidade só deve existir quando ela resolve um problema real.
+Complexidade só deve existir quando agrega valor real.
 
-### Continuous Improvement
+#### Continuous Improvement
 
-Sempre estudando e refinando conhecimentos em:
+Tecnologia evolui constantemente e o aprendizado também.
 
-* Arquitetura de Software
-* Domain-Driven Design (DDD)
-* Microsserviços
-* Event-Driven Architecture
-* Cloud Computing
-* Go (Golang)
-* Inteligência Artificial aplicada ao desenvolvimento
+Atualmente estou aprofundando conhecimentos em:
+
+- Event-Driven Architecture
+- Microsserviços
+- Inteligência Artificial
+- Arquitetura Cloud Native
 
 ---
 
-## Tech Stack
+## 🛠️ Stack
+
+### <p align="center">Backend</p>
 
 <p align="center">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+</p>
+
+### <p align="center">Frontend</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html" />
+</p>
+
+### <p align="center">Database</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### <p align="center">Cloud & Infrastructure</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker" />
+</p>
+
+### <p align="center">Tools</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
 
 ---
 
-## Current Focus
-
-* Arquiteturas escaláveis com .NET
-* React e experiência do usuário
-* Cloud Native Applications
-* Sistemas distribuídos
-* Observabilidade e Performance
-* Go para aplicações de alta concorrência
-
----
-
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaosambrano&show_icons=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosambrano&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=jsambrano20&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## Contact
+## 📫 Contato
 
-<p align="left">
-  <a href="mailto:joaosambranodev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="mailto:sambranno24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/joao-sambrano/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Good software is built by understanding problems deeply before writing solutions."</i>
 </p>
